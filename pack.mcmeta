@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 7,
+    "description": "§6NoRecipes v1.0.0\n§a禁用原版所有合成\n§m您完全不合成是吗\n§6by Youmiel",
+    "author":[
+      "Youmiel"
+    ],
+    "version":"1.0.0"
+  }
+}
