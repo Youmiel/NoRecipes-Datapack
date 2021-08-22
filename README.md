@@ -1,0 +1,2 @@
+# NoRecipes
+Removes vanilla recipes.
